@@ -15,8 +15,3 @@ The algorithm leverages parallel processing to efficiently sort a collection of 
 ## Performance Comparison
 
 The algorithm demonstrates superior performance compared to traditional non-parallel sorting algorithms, especially when dealing with a large number of items.
-
-### Performance Metrics
-
-- Normal Sorting: Average execution time for traditional sorting
-- Parallel Sorting: Average execution time for parallel sorting
